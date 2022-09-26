@@ -3,7 +3,7 @@
 
 
 I'm Thibault Thuillier, 3rd year student at Epitech Lyon. <br>
-Trying to improve my skills with my own projects and TryHackMe ! 
+Trying to improve my skills with my own projects and CTF platforms ! 
 
 ## Languages & Tools :
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
@@ -23,8 +23,9 @@ Trying to improve my skills with my own projects and TryHackMe !
 <a href="https://www.microsoft.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/> </a>
           
 
-## Personal THM Profile
+## My different profiles on CTF platforms :
 <a href="https://tryhackme.com/p/Chpa" target="_blank" rel="noreferrer"> <img src="https://tryhackme-badges.s3.amazonaws.com/Chpa.png" alt="Chepa'sTryHackMe"/> </a>
+<a href="https://app.hackthebox.com/profile/1191719" target="_blank" rel="noreferrer"> <img src="https://app.hackthebox.com/images/logos/logo-htb.svg" width="250" height="60" alt="Chepa'sHackTheBox"/> </a>
 
 ## Feel free to contact me :
 <a href="https://linkedin.com/in/thibault-thuillier" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thibault-thuillier" height="30" width="40" /></a>
