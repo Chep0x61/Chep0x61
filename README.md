@@ -24,7 +24,7 @@ Trying to improve my skills with my own projects and CTF platforms !
           
 
 ## My different profiles on CTF platforms :
-<a href="https://tryhackme.com/p/Chpa" target="_blank" rel="noreferrer"> <img src="https://tryhackme-badges.s3.amazonaws.com/Chpa.png" alt="Chepa'sTryHackMe"/> </a>
+<a href="https://tryhackme.com/p/Chpa" target="_blank" rel="noreferrer"> <img src="updateit" alt="Chepa'sTryHackMe"/> </a>
 <a href="https://app.hackthebox.com/profile/1191719" target="_blank" rel="noreferrer"> <img src="https://app.hackthebox.com/images/logos/logo-htb.svg" width="250" height="60" alt="Chepa'sHackTheBox"/> </a>
 
 ## Feel free to contact me :
