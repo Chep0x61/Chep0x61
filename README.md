@@ -1,11 +1,11 @@
-### Welcome to my profile ! <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="25" height="25"/> 
-<br>
+<h1 align="center"> <img src"https://github.com/Chep0x61/Chep0x61/blob/main/bongodev.gif" width="32" height="32"/> Hello there, welcome to my profile ! <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="32" height="32"/> </h1>
 
+##  👨‍💻  About Me :
 
-I'm Thibault Thuillier, 3rd year student at Epitech Lyon. <br>
+I'm Thibault Thuillier, a 3rd year student at Epitech Lyon. <br>
 Trying to improve my skills with my own projects and CTF platforms ! 
 
-## Languages & Tools :
+##  🔧  Languages & Tools :
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/> </a>
@@ -23,9 +23,9 @@ Trying to improve my skills with my own projects and CTF platforms !
 <a href="https://www.microsoft.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/> </a>
           
 
-## My different profiles on CTF platforms :
+## 👾 My different profiles on CTF platforms :
 <a href="https://tryhackme.com/p/Chep0x61" target="_blank" rel="noreferrer"> <img src="https://tryhackme-badges.s3.amazonaws.com/Chep0x61.png" alt="Chep0x61'sTryHackMe"/> </a>
 <a href="https://app.hackthebox.com/profile/1191719" target="_blank" rel="noreferrer"> <img src="https://app.hackthebox.com/images/logos/logo-htb.svg" width="250" height="60" alt="Chepa'sHackTheBox"/> </a>
 
-## Feel free to contact me :
+## 💼 Feel free to contact me :
 <a href="https://linkedin.com/in/thibault-thuillier" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thibault-thuillier" height="30" width="40" /></a>
