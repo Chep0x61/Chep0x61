@@ -1,4 +1,7 @@
-<h1 align="center"> <img src"https://github.com/Chep0x61/Chep0x61/blob/main/bongodev.gif" width="32" height="32"/> Hello there, welcome to my profile ! <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="32" height="32"/> </h1>
+<h1 align="center"> Hello there, welcome to my profile ! <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="32" height="32"/> </h1>
+
+<br />
+<div align="center"> <img src="https://github.com/Chep0x61/Chep0x61/blob/main/.github/assets/bongodev2.gif" width="500" height="300"/> </div>
 
 ##  👨‍💻  About Me :
 
