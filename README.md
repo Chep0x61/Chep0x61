@@ -15,8 +15,8 @@
 
 ##  👨‍💻  About Me
 
-I'm Thibault Thuillier, a 3rd year student at Epitech Lyon. <br>
-Trying to improve my skills with my own projects and CTF platforms ! 
+<b> I'm Thibault Thuillier, a 3rd year student at Epitech Lyon. </b> <br> 
+<b> Trying to improve my skills with my own projects and CTF platforms ! </b>
 
 ##  🔧  Languages & Tools
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
