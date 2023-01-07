@@ -1,7 +1,12 @@
 <h1 align="center"> Hello there, welcome to my profile ! <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="32" height="32"/> </h1>
 
 <br />
-<div align="center"> <img src="https://github.com/Chep0x61/Chep0x61/blob/main/.github/assets/bongodev.gif" width="450" height="250"/> </div>
+<div align="center">           
+          <img src="https://github.com/Chep0x61/Chep0x61/blob/main/.github/assets/bongodev.gif" width="450" height="250"/> 
+</div>
+          
+![](https://komarev.com/ghpvc/?username=Chep0x61-username&color=blueviolet)
+
 
 ##  👨‍💻  About Me
 
