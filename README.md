@@ -5,7 +5,10 @@
           <img src="https://github.com/Chep0x61/Chep0x61/blob/main/.github/assets/bongodev.gif" width="450" height="250"/> 
 </div>
           
-![](https://komarev.com/ghpvc/?username=Chep0x61-username&color=blueviolet)
+<p align='center'>
+<code><img src="https://komarev.com/ghpvc/?username=Chep0x61-username&color=blueviolet"/></code>
+</p>
+
 
 
 ##  👨‍💻  About Me
