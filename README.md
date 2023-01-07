@@ -1,13 +1,15 @@
 <h1 align="center"> Hello there, welcome to my profile ! <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="32" height="32"/> </h1>
 
 <br />
+
 <div align="center">           
           <img src="https://github.com/Chep0x61/Chep0x61/blob/main/.github/assets/bongodev.gif" width="450" height="250"/> 
 </div>
           
-<p align='center'>
-<code><img src="https://komarev.com/ghpvc/?username=Chep0x61-username&color=blueviolet"/></code>
-</p>
+<div align='center'>
+          <img alt="Github Followers" src="https://img.shields.io/github/followers/Chep0x61?color=%238f39dc&logo=github&style=flat&label=Followers" >
+          <img src="https://komarev.com/ghpvc/?username=Chep0x61-username&color=blueviolet"/>
+</div>
 
 
 
@@ -39,4 +41,6 @@ Trying to improve my skills with my own projects and CTF platforms !
 <a href="https://app.hackthebox.com/profile/1191719" target="_blank" rel="noreferrer"> <img src="https://app.hackthebox.com/images/logos/logo-htb.svg" width="250" height="60" alt="Chepa'sHackTheBox"/> </a>
 
 ## 💼 Feel free to contact me
-<a href="https://linkedin.com/in/thibault-thuillier" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thibault-thuillier" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/thibault-thuillier" target="blank"><img align="center" src="https://img.icons8.com/nolan/512/linkedin.png" alt="thibault-thuillier" height="55" width="55" /></a>
+<a href="mailto:thibault.thuillier@epitech.eu" target="blank"><img align="center" src="https://img.icons8.com/dusk/512/open-envelope.png" alt="mail" height="50" width="50"/></a>
+<a href="https://discord.gg/JZAkZ8cXRg" target="blank"><img align="center" src="https://img.icons8.com/stickers/512/discord-logo.png" alt="discord" height="50" width="50" /></a>
