@@ -1,21 +1,24 @@
 <h1 align="center"> Hello there, welcome to my profile ! <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="32" height="32"/> </h1>
 
-<br />
+<br/>
 
 <div align="center">           
           <img src="https://github.com/Chep0x61/Chep0x61/blob/main/.github/assets/bongodev.gif" width="450" height="250"/> 
 </div>
           
 <div align='center'>
+          <img alt="Github Followers" src="https://streak-stats.demolab.com?user=Chep0x61&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D">
+</div>
+
+<div align='center'>
           <img alt="Github Followers" src="https://img.shields.io/github/followers/Chep0x61?color=%238f39dc&logo=github&style=flat&label=Followers" >
           <img src="https://komarev.com/ghpvc/?username=Chep0x61-username&color=blueviolet"/>
 </div>
 
-
-
 ##  👨‍💻  About Me
 
-<b> I'm Thibault Thuillier, a 3rd year student at Epitech Lyon. </b> <br> 
+<b> I'm Thibault Thuillier, a 3rd year student at Epitech Lyon. </b> 
+<br /> 
 <b> Trying to improve my skills with my own projects and CTF platforms ! </b>
 
 ##  🔧  Languages & Tools
