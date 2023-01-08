@@ -3,7 +3,7 @@
 <br/>
 
 <div align="center">           
-          <img src="https://github.com/Chep0x61/Chep0x61/blob/main/.github/assets/bongodev.gif" width="450" height="250"/> 
+          <img src="https://github.com/Chep0x61/Chep0x61/blob/main/.github/assets/bongodev.gif" width="490" height="290"/> 
 </div>
           
 <div align='center'>
