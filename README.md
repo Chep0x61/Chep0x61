@@ -11,8 +11,8 @@
 </div>
 
 <div align='center'>
-          <img alt="Github Followers" src="https://img.shields.io/github/followers/Chep0x61?color=%238f39dc&logo=github&style=flat&label=Followers" >
-          <img src="https://komarev.com/ghpvc/?username=Chep0x61-username&color=blueviolet"/>
+          <img alt="Github Followers" src="https://img.shields.io/github/followers/Chep0x61?color=ff69b4&logo=github&style=flat&label=Followers" >
+          <img src="https://komarev.com/ghpvc/?username=Chep0x61-username&color=ff69b4"/>
 </div>
 
 ##  👨‍💻  About Me
