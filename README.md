@@ -16,8 +16,7 @@
 </div>
 
 ##  👨‍💻  About Me
-
-<b> I'm Thibault Thuillier, a 3rd year student at Epitech Lyon. </b> 
+<b> I'm Thibault Thuillier, a 4th year student at Epitech. Currently participating in an exchange program at NTUT in Taipei. </b> 
 <br /> 
 <b> Trying to improve my skills with my own projects and CTF platforms ! </b>
 
