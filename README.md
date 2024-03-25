@@ -40,7 +40,6 @@
 
 ## 👾 My different profiles on CTF platforms
 <a href="https://tryhackme.com/p/Chep0x61" target="_blank" rel="noreferrer"> <img src="https://tryhackme-badges.s3.amazonaws.com/Chep0x61.png" alt="Chep0x61'sTryHackMe"/> </a>
-<a href="https://app.hackthebox.com/profile/1191719" target="_blank" rel="noreferrer"> <img src="https://app.hackthebox.com/images/logos/logo-htb.svg" width="250" height="60" alt="Chepa'sHackTheBox"/> </a>
 
 ## 💼 Feel free to contact me
 <a href="https://linkedin.com/in/thibault-thuillier" target="blank"><img align="center" src="https://img.icons8.com/nolan/512/linkedin.png" alt="thibault-thuillier" height="55" width="55" /></a>
