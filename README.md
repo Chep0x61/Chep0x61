@@ -2,9 +2,9 @@
 <h3 align="left"> Student in CyberSecurity, for more informations ➡️ <a href="https://chep0x61.com" target="_blank" rel="noreferrer">Chep0x61.com</a></h3>
 
 <div align='left'>
-          <img src="https://img.shields.io/badge/🌐%20%20Country-France%20🇫🇷-ff69b4" />
-          <img alt="Github Followers" src="https://img.shields.io/github/followers/Chep0x61?color=ff69b4&logo=github&style=flat&label=Followers" />
-          <img src="https://komarev.com/ghpvc/?username=Chep0x61-username&color=ff69b4" />
+          <img src="https://img.shields.io/badge/🌐%20%20Country-France%20🇫🇷-007acc" />
+          <img alt="Github Followers" src="https://img.shields.io/github/followers/Chep0x61?color=007acc&logo=github&style=flat&label=Followers" />
+          <img src="https://komarev.com/ghpvc/?username=Chep0x61-username&color=007acc" />
 </div>
 
 <div align="left">
