@@ -1,5 +1,5 @@
 <h1 align="left"> Hi, I'm <s>Thibault Thuillier, a.k.a</s> Chep0x61 ! <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="32" height="32"/> </h1>
-<h3 align="left"> Student in CyberSecurity, for more informations ➡️ <a href="https://chep0x61.com" target="_blank" rel="noreferrer"> Chep0x61.com </a> </h3>
+<h3 align="left"> Student in CyberSecurity, for more informations ➡️ <a href="https://chep0x61.com" target="_blank" rel="noreferrer">Chep0x61.com</a></h3>
 
 <div align='left'>
           <img src="https://img.shields.io/badge/🌐%20%20Country-France%20🇫🇷-ff69b4" />
