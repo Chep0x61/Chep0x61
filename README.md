@@ -13,7 +13,7 @@
 
 <details>	
   <summary><b>🔥 Github Stats</b></summary>
-<img alt="Github Followers" src="https://streak-stats.demolab.com?user=Chep0x61&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D">
+<img alt="Github Followers" src="https://streak-stats.demolab.com?user=Chep0x61&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D">
 </details>
 
 
