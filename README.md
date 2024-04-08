@@ -27,10 +27,9 @@
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Vue.js.svg" alt="vuejs" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/React.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" alt="tailwind" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="40" height="40"/> </a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Node.js.svg" alt="nodejs" width="40" height="40"/> </a> 
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg" alt="postgres" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Docker.svg" alt="docker" width="50" height="50"/> </a> 
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Docker_%28container_engine%29_logo_%28cropped%29.png" alt="docker" width="60" height="40"/> </a> 
 <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Kubernetes.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Jenkins.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
