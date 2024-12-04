@@ -29,17 +29,8 @@ class About extends Me {
 ```
 
 <div align="center" >
-<a  href="https://github.com/Chep0x61?tab=repositories">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Chep0x61&theme=github_dark" width="32.5%">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chep0x61&theme=github_dark" width="32.5%">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Chep0x61&theme=github_dark" width="32.5%">
-</a>
-
-  
-<hr></hr>
 
 ### Hack, Eat, Sleep, Repeat !
-
 
 <img src="https://shopify.vivre-motion.com/thumbnail_icons/teams/0080_alien-monster_1f47e.png" width="10%" alt="Monster"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
