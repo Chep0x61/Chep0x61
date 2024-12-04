@@ -1,4 +1,4 @@
-<h1 align="left"> Hi, I'm <s>Thibault Thuillier, a.k.a</s> Chep0x61 ! <img src="https://shopify.vivre-motion.com/thumbnail_icons/teams/0080_waving-hand_light-skin-tone_1f44b-1f3fb_1f3fb.png" width="42" height="42"/> </h1>
+<h1 align="center"> Hi, I'm <s>Thibault Thuillier, a.k.a</s> Chep0x61 ! <img src="https://shopify.vivre-motion.com/thumbnail_icons/teams/0080_waving-hand_light-skin-tone_1f44b-1f3fb_1f3fb.png" width="42" height="42"/> </h1>
 
 <div align="center">
   <h3 align="center"> Cybersecurity enthusiast, currently DevOps @Steamulo</h3>
@@ -13,20 +13,26 @@
 
 <hr></hr>
 
-```
-// Tech & Tools I used to work with
+```c
+// Certifications, Tech & Tools I work with
 
-class About extends Me { 
-  const myTools = {  ,
-    "DevAndScripting" : { "Bash", "Python", "Typescript", "C" },
-    "Database" : { "Postgres", "MySQL" },
-    "DevOps" : { "Docker", "Kubernetes", "Ansible", "Nginx", "Terraform", "Jenkins" },
-    "Observability" : { "Prometheus", "Grafana" },
-    "OtherTools" : { "Git" },
-    "Operating System" : { "GNU/Linux" },
-  };
+#include <stdio.h>
+
+int main() {
+    struct Tools myTools = {
+        .Certifications = { "ISC2 CC" },
+        .DevAndScripting = { "Bash", "Python", "TypeScript", "C" },
+        .DevOps = { "Docker", "Kubernetes", "Ansible", "Nginx", "Terraform", "Jenkins" },
+        .Observability = { "Prometheus", "Grafana" },
+        .OperatingSystem = { "GNU/Linux" }
+    };
+
+    printf("Certifications, Tech & Tools I work with\n");
+    return 0;
 }
 ```
+
+<hr></hr>
 
 <div align="center" >
 
