@@ -18,8 +18,8 @@
 
 int main() {
     char *skills[] = {
-        "Certifications: ISC2 CC, TryHackMe Jr Pentester",
-        "Languages: C, Python, Bash, TypeScript",
+        "Certifications: ISC2 CC",
+        "Languages: Bash, C, Python, TypeScript",
         "DevOps: Docker, Kubernetes, Ansible, Terraform",
         "Observability: Prometheus, Grafana",
         "OS: GNU/Linux"
