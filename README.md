@@ -14,20 +14,20 @@
 <hr></hr>
 
 ```c
-// Certifications, Tech & Tools I work with
-
 #include <stdio.h>
 
 int main() {
-    struct Tools myTools = {
-        .Certifications = { "ISC2 CC" },
-        .DevAndScripting = { "Bash", "Python", "TypeScript", "C" },
-        .DevOps = { "Docker", "Kubernetes", "Ansible", "Nginx", "Terraform", "Jenkins" },
-        .Observability = { "Prometheus", "Grafana" },
-        .OperatingSystem = { "GNU/Linux" }
+    char *skills[] = {
+        "Certifications: ISC2 CC, TryHackMe Jr Pentester",
+        "Languages: C, Python, Bash, TypeScript",
+        "DevOps: Docker, Kubernetes, Ansible, Terraform",
+        "Observability: Prometheus, Grafana",
+        "OS: GNU/Linux"
     };
-
-    printf("Certifications, Tech & Tools I work with\n");
+    printf("Certifications, Tech & Tools I work with:\n");
+    for (int i = 0; i < 5; i++) {
+        printf("• %s\n", skills[i]);
+    }
     return 0;
 }
 ```
