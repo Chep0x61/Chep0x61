@@ -1,7 +1,7 @@
 <h1 align="center"> Hi, I'm <s>Thibault Thuillier, a.k.a</s> Chep0x61 ! <img src="https://shopify.vivre-motion.com/thumbnail_icons/teams/0080_waving-hand_light-skin-tone_1f44b-1f3fb_1f3fb.png" width="42" height="42"/> </h1>
 
 <div align="center">
-  <h3 align="center"> Cybersecurity enthusiast, currently seeking a 6-month end-of-studies internship starting in April 2025.</h3>
+  <h3 align="center"> Cybersecurity enthusiast, currently seeking a 6-month <br> end-of-studies internship starting in April 2025.</h3>
   <h3 align="center"> For more informations check my website ➡️ <a href="https://chep0x61.com" target="_blank" rel="noreferrer">Chep0x61.com</a></h3>
 </div>
 
