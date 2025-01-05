@@ -1,7 +1,7 @@
 <h1 align="center"> Hi, I'm <s>Thibault Thuillier, a.k.a</s> Chep0x61 ! <img src="https://shopify.vivre-motion.com/thumbnail_icons/teams/0080_waving-hand_light-skin-tone_1f44b-1f3fb_1f3fb.png" width="42" height="42"/> </h1>
 
 <div align="center">
-  <h3 align="center"> Cybersecurity enthusiast, currently DevOps @Steamulo</h3>
+  <h3 align="center"> Cybersecurity enthusiast, currently seeking a 6-month end-of-studies internship starting in April 2025.</h3>
   <h3 align="center"> For more informations check my website ➡️ <a href="https://chep0x61.com" target="_blank" rel="noreferrer">Chep0x61.com</a></h3>
 </div>
 
@@ -18,14 +18,15 @@
 
 int main() {
     char *skills[] = {
-        "Certifications: ISC2 CC",
+        "Certifications: CompTIA Security+, ISC2 CC",
         "Languages: Bash, C, Python, TypeScript",
-        "DevOps: Docker, Kubernetes, Ansible, Terraform",
-        "Observability: Prometheus, Grafana",
-        "OS: GNU/Linux"
+        "DevOps: Docker, Ansible, Gitlab CI, Jenkins, Nginx",
+        "Observability: Prometheus, Grafana, Loki",
+        "OS: mostly Linux distros, sometimes Windows",
+        "Project Versionning: Git (obviously)"
     };
     printf("Certifications, Tech & Tools I work with:\n");
-    for (int i = 0; i < 5; i++) {
+    for (int i = 0; i < 6; i++) {
         printf("• %s\n", skills[i]);
     }
     return 0;
